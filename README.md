@@ -10,8 +10,8 @@ https://github.com/google/evcxr/blob/master/evcxr_jupyter/README.md
 
 List of EvCxR Jupyter notebook files:
 
-* evcxr_demo_1.ipynb - Modifications to run Rust program to run on EvCxR Jupyter
-* evcxr_demo_2.ipynb - String formating
+* evcxr_demo_1.ipynb - Modifications to Rust program to run on EvCxR Jupyter
+* evcxr_demo_2.ipynb - String formatting
 * evcxr_demo_3.ipynb - Simplification of iteration
 * evcxr_demo_4.ipynb - Fibonacci series
 * evcxr_demo_5.ipynb - Time in different formats using the chrono crate
