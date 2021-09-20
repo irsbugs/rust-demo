@@ -4,8 +4,8 @@ The Rust website provides on-line learning using the technique of *Rust By Examp
 
 https://doc.rust-lang.org/stable/rust-by-example/
 
-This attached 24 x .ipynb replicate the *Rust By Example* for off-line use with Jupyter-Noetbook.
+This attached 24 x .ipynb replicate the *Rust By Example* for off-line use with Jupyter-Notebook.
 
-A prerequisite is to install called **EvCxR** the Rust kernel for Jupyter-Notebook. See...
+A prerequisite to using these files is to install called **EvCxR** the Rust kernel for Jupyter-Notebook. See...
 
 https://github.com/google/evcxr/blob/main/evcxr_jupyter/README.md
