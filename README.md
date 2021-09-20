@@ -18,3 +18,9 @@ List of EvCxR Jupyter notebook files:
 * evcxr_demo_6.ipynb - Writing to Files
 * evcxr_demo_7.ipynb - Reading from Files
 * evcxr_demo_junk.ipynb - GTK+ message box. (takes 15+ mins to load)
+
+The Rust website provides on-line learning using the technique of Rust By Example. See...
+
+https://doc.rust-lang.org/stable/rust-by-example/
+
+This has been converted for off-line use with Jupyter-Notebook. See [Rust By Example](rust_by_example/README.md)
